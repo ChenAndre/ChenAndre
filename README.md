@@ -6,7 +6,7 @@
 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning: Python, Java, C, C++, C#, GO, Firebase, and MONGODB
+- 🌱 I’m currently learning: Python, Java, C, C++, C#, GO, Firebase, and MongoDB
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
