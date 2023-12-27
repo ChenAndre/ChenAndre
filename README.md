@@ -1,7 +1,7 @@
 Hi there 👋
 
 <!--
-**wintrsatoru/wintrsatoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChenAndre/ChenAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 My name is Andre, and I'm a first year Computer Engineering student. I'm interested in Artificial Intelligence, Cybersecurity, Cloud Computing, and all things tech!
