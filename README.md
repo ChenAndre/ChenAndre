@@ -4,7 +4,7 @@ Hi there 👋
 **ChenAndre/ChenAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Andre, and I'm a first year Computer Engineering student. I'm interested in Artificial Intelligence, Cybersecurity, Cloud Computing, and all things tech!
+<!--My name is Andre, and I'm a first year Computer Engineering student. I'm interested in Artificial Intelligence, Cybersecurity, Cloud Computing, and all things tech!-->
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I'm Experienced in: Python, Java, C, C++, C#, GO, Firebase, and MongoDB
