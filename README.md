@@ -7,7 +7,7 @@ Hi there 👋
 <!--My name is Andre, and I'm a first year Computer Engineering student. I'm interested in Artificial Intelligence, Cybersecurity, Cloud Computing, and all things tech!-->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I'm Experienced in: Python, Java, C++, GO, Firebase, and MongoDB
+- 🌱 I'm Experienced in: Python, Java, C++, and GO
 
 
 <!-- - 👯 I’m looking to collaborate on ...
